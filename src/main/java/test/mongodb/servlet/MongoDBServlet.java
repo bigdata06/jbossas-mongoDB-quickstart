@@ -40,6 +40,7 @@ import com.mongodb.DBCursor;
  * 
  * @author Scott stark (sstark@redhat.com) (C) 2011 Red Hat Inc.
  * @version $Revision:$
+	Kernelmanz said rev12
  */
 @WebServlet(name = "MongoDBServlet")
 public class MongoDBServlet extends HttpServlet {
